@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PascalTriangle {
+ class PascalTriangle {
 
    public static void print(int n) {
        for (int i = 0; i < n; i++) {
@@ -29,3 +29,12 @@ public class PascalTriangle {
        print(row);
    }
 }
+
+/*
+ Enter the row number upto which Pascal's triangle has to be printed: 3
+1
+1 1
+1 2 1
+ 
+ 
+ */

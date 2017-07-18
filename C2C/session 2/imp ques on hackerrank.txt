@@ -1,0 +1,7 @@
+Sherlock and square -find square of numbers betn a and b - Math.floor(Math.sqrt(a))-Math.ceil(Math.sqrt(b))+1
+restaurant -finding gcd (a/gcd(a,b))*(b/gcd(a,b))
+service lane
+Sherlock and gcd
+
+java-negative-subarray
+flipping the matrix
